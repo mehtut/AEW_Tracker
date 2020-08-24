@@ -1,7 +1,7 @@
 # AEW_Tracker
 African easterly wave tracking algorithm
 
-AEW Tracker Readme
+## Readme
 
 The African easterly wave (AEW) tracking algorithm has multiple components. The main program that is executed is `AEW_Tracks.py`. The arguments model type (WRF, CAM5 or ERA5 data), scenario type (Historical, late_century, and Plus30), and the year are parsed from the command line. To run the program, for example, type:
 ```
